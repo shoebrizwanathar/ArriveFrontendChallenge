@@ -1,0 +1,79 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "name": "Task 1: Write Documentation",
+      "description": "Create comprehensive documentation for the new feature release.",
+      "author": {
+        "first_name": "Alice",
+        "last_name": "Johnson",
+        "username": "alice_j",
+        "id": 101
+      },
+      "steps": [
+        {"step": "Step 1: Draft initial outline", "completed": true},
+        {"step": "Step 2: Add introduction", "completed": true},
+        {"step": "Step 3: Write main content", "completed": false},
+        {"step": "Step 4: Review with team", "completed": false},
+        {"step": "Step 5: Make revisions", "completed": false}
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Task 2: Implement Feature X",
+      "description": "Develop and integrate Feature X into the current product.",
+      "author": {
+        "first_name": "Bob",
+        "last_name": "Smith",
+        "username": "bob_smith",
+        "id": 102
+      },
+      "steps": [
+        {"step": "Step 1: Gather requirements", "completed": true},
+        {"step": "Step 2: Design system", "completed": true},
+        {"step": "Step 3: Set up development environment", "completed": true},
+        {"step": "Step 4: Write initial code", "completed": false},
+        {"step": "Step 5: Conduct unit testing", "completed": false},
+        {"step": "Step 6: Refactor code", "completed": false},
+        {"step": "Step 7: Perform code review", "completed": false},
+        {"step": "Step 8: Deploy to staging", "completed": false}
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Task 3: Prepare Presentation",
+      "description": "Prepare a detailed presentation for the upcoming client meeting.",
+      "author": {
+        "first_name": "Clara",
+        "last_name": "Davis",
+        "username": "clara_d",
+        "id": 103
+      },
+      "steps": [
+        {"step": "Step 1: Define key points", "completed": true},
+        {"step": "Step 2: Create slides", "completed": true},
+        {"step": "Step 3: Gather supporting data", "completed": false},
+        {"step": "Step 4: Rehearse presentation", "completed": false},
+        {"step": "Step 5: Finalize slides", "completed": false}
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Task 4: Organize Team Meeting",
+      "description": "Schedule and organize the monthly team meeting.",
+      "author": {
+        "first_name": "David",
+        "last_name": "Williams",
+        "username": "david_w",
+        "id": 104
+      },
+      "steps": [
+        {"step": "Step 1: Choose a date", "completed": true},
+        {"step": "Step 2: Send invitations", "completed": true},
+        {"step": "Step 3: Prepare agenda", "completed": true},
+        {"step": "Step 4: Arrange meeting room", "completed": false},
+        {"step": "Step 5: Follow up on RSVPs", "completed": false}
+      ]
+    }
+  ]
+}

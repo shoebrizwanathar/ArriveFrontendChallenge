@@ -1,0 +1,31 @@
+body {
+  background-color: rgb(44, 45, 47);
+}
+
+h1, p, span {
+  color: rgb(249, 251, 250);
+}
+
+#default-sidebar .left-menu {
+  background-color: #1c1d1f;
+}
+
+.table-container {
+  padding-top: 20px;
+}
+
+.progress {
+  height: 30px;
+  border-radius: 30px;
+  width:100%;
+}
+
+progress[value]::-webkit-progress-bar {
+  background-color: #ededed;
+  border-radius: 40px;
+}
+
+progress[value]::-webkit-progress-value {
+  border-radius: 40px;
+  background-color:lightblue;
+}
